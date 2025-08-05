@@ -1,0 +1,7 @@
+----- Fee Receipt -----
+Student ID: 530
+Name: sid
+Fees Paid: ₹25000
+Total Fees: ₹30000
+Balance Due: ₹5000
+-----------------------

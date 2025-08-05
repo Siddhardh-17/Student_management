@@ -1,0 +1,19 @@
+# C++ object files and executables
+*.o
+*.out
+*.exe
+
+# Backup and temp files
+*~
+*.swp
+
+# VSCode workspace files
+.vscode/
+
+# Build directories
+build/
+dist/
+
+# System files
+.DS_Store
+Thumbs.db
